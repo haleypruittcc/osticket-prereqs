@@ -29,9 +29,14 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 
 <h3>Step 1: Connect to your Virtual Machine with Remote Desktop</h3>
 
-- If you need help connecting to your virtual machine, please see my tutorial [here](https://github.com/miquelmanaois/virtualmachine)
+- Please go to my instruction if you require assistance connecting to your virtual machine. [here](https://github.com/haleypruittcc/ResourcegroupandHelloworld)
 
-<h3>Step 2: Install / Enable Internet Information Services (IIS) in Windows</h3>
+<h3>Step 2: Install and activate Windows' IIS (Internet Information Services) </h3>
+
+<p align="center">
+<img src="https://i.imgur.com/NbQvYeL.png.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
 
 - At the bottom left, search control panel.
 - Select uninstall a program underneath programs.
