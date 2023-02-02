@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.ytimg.com/vi/K7T_JjvEamg/maxresdefault.jpg" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+The developer of osTicket, Enhancesoft, is a software firm that specializes in providing outstanding help desk solutions that enable organizations to concentrate on what matters most. The osTicket open-source help desk ticketing system installation process is described in this tutorial. <br />
 
 
 
