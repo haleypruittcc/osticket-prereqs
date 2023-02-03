@@ -34,39 +34,36 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 <h3>Step 2: Install and activate Windows' IIS (Internet Information Services) </h3>
 
 <p align="center">
-<img src="https://i.imgur.com/NbQvYeL.png.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/iEIhTMo.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 
-- At the bottom left, search control panel.
-- Select uninstall a program underneath programs.
-- On the left side, select Turn Windows features on or off
-- Select Internet Information Services, and select OK.
+- First, Go to the bottom of the search bar beside the start and search "Control Panel". 
+- Next, click on "Programs" then, select  "Turn Windows features on or off".
+- Next, open Internet Information Services > World Wide Web Services > Application Development Features > check the box on "CGI".
+- Finally, select "Ok"
 
 
-<p align="center">
-<img src="https://i.imgur.com/NbQvYeL.png.png" height="80%" width="80%" alt="Azure Free Account"/> 
-</p>
 
 
-<h3>Step 3:  Download, install, and open Web Platform Installer. Afterwards, download necessary files
+
+<h3>Step 3:  Download and Installtion Files of the Web Platform Installer
 </h3>
 
-- osTicket Installation Files [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
-	- Download Web Platform Installer -> Select download anyway -> at the top right select Open file ->
-		- You will then follow a prompt to install Web Platform Installer
-			- Open Web Platform Installer
-
 <p align="center">
-<img src="https://i.imgur.com/0On2vKd.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/V4p94mP.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/mdLy4c3.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
-- Once Web Platform Installer is open, go to the top right and search MySQL 5.5. 
-- Go to MySQL Windows 5.5 and click add. 
-- Go to the top right again and search for php.
-	- Sort by "name"
-- Add All simple versions of x86 PHP up until 7.3
-- Select install at the bottom and it will tell you to create a username and password      to finish installation
+
+- Here are the osTicket Installation Files [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+- First, Download "PHP Manager for IIS " > Select a "Download"  
+- You will then follow a prompt to install "PHP Manager for IIS "
+
+<p align="center">
+<img src="https://i.imgur.com/oRyUssH.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/065U0Xv.png" height="80%" width="80%" alt="Azure Free Services"/>
+</p>
+
+-
 
 <p align="center">
 <img src="https://i.imgur.com/uWAVcRG.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/MQmZfht.png" height="80%" width="80%" alt="Azure Free Services"/>
