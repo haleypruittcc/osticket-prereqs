@@ -87,4 +87,17 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 <img src="https://i.imgur.com/y5qv9Mn.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
+<p align="center">
+<img src="https://i.imgur.com/BU8JC2I.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/d5KeP4Z.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+<p align="center">
+<img src="https://i.imgur.com/n5QsaKk.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+
+
 - Next, Download "My SQL 5.5.62"
