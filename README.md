@@ -94,10 +94,47 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 <p align="center">
 <img src="https://i.imgur.com/d5KeP4Z.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
+
 <p align="center">
 <img src="https://i.imgur.com/n5QsaKk.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 
 
-- Next, Download "My SQL 5.5.62"
+- Next, Download "My SQL 5.5.62" > Select "Typical"
+- Then, Select " Standard" > type any password that you can easily rememeber.
+  - Example: "Password1"
+- Then you going to contiue follow the prompts to install.
+
+
+<p align="center">
+<img src="https://i.imgur.com/0mY23yA.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/Uacc8HW.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/MTMZ44V.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/4B5mjnt.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/NeIlauO.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+
+
+
+
+
+
+
+<p align="center">
+<img src="https://i.imgur.com/4v16Ssz.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
