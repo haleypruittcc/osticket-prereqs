@@ -108,6 +108,10 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 
 
 <p align="center">
+<img src="https://i.imgur.com/JB3Cbrc.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
 <img src="https://i.imgur.com/0mY23yA.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
@@ -132,12 +136,12 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 <img src="https://i.imgur.com/4v16Ssz.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
-- First, open IIS as Admin and Register PHP from within IIS.
-- Next, reload IIS (Open IIS, Stop and Start the server) 
 - Install osTicket v1.15.8
   - Download osTicket from the Installation Files Folder
   - Extract and copy “upload” folder to c:\inetpub\wwwroot
   - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+- First, open IIS as Admin and Register PHP from within IIS.
+- Next, reload IIS (Open IIS, Stop and Start the server) 
 - Reload IIS (Open IIS, Stop and Start the server)
 - Go to sites -> Default -> osTicket and on the right, click “Browse *:80”
 - Go back to IIS, sites -> Default -> osTicket
@@ -149,6 +153,9 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 - Rename: ost-config.php by going to This PC -> Windows(:C) -> intepub -> wwwroot -> osTicket -> inclube then scroll down to find "ost-sampleconfig.php"
   - From: ost-sampleconfig.php -> To: ost-config.php.
 
+<p align="center">
+<img src="https://i.imgur.com/4Nli569.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
 
 - Assign Permissions: ost-config.php by going to 
   - Disable inheritance -> Remove All
