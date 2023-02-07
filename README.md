@@ -133,6 +133,6 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 </p>
 
 - First, open IIS as Admin and Register PHP from within IIS.
-- Next, reload IIS (Open IIS, Stop and Start the server)
+- Next, reload IIS (Open IIS, Stop and Start the server) 
 
 
