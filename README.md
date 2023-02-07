@@ -134,5 +134,10 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 
 - First, open IIS as Admin and Register PHP from within IIS.
 - Next, reload IIS (Open IIS, Stop and Start the server) 
+- Install osTicket v1.15.8
+  - Download osTicket from the Installation Files Folder
+  - Extract and copy “upload” folder to c:\inetpub\wwwroot
+  - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
 
 
