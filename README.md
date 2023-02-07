@@ -200,14 +200,25 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 </p>
 
 - Fisrt, Continue setting up osTicket in the browser by click "Continue"
-- Name 
-
-
-
-
-
-
+  - Name the HelpDesk -> Example: "Haley Helpdesk" 
+  - Default email -> Example: "haley@helper.com"
+  - Create a username -> Example:"Haley_admin"
+- Next, Download and install HeidiSQL by you going to contiue follow the prompts to install.
+  - Create a new session, root/Password1
+  - Connect to the session by right click , then create new "Database" by naming it "osTicket"
+- Put in your MySQL username and password01 you made earlier in the step 
+  - Example: Username: root 
+             Password: Password1
+- Type in MysQL Database:"osTicket"
+- Finally, click "Install Now" 
 
 <p align="center">
-<img src="https://i.imgur.com/zzpKquU.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/V1q28Ok.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
+
+
+
+
+
+
+
