@@ -101,8 +101,8 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 
 
 
-- Next, Download "My SQL 5.5.62" > Select "Typical"
-- Then, Select " Standard" > type any password that you can easily rememeber.
+- Next, Download "My SQL 5.5.62" > Select "Typical Setup"
+- Then, Select " Standard Configuration" > type any password that you can easily rememeber.
   - Example: "Password1"
 - Then you going to contiue follow the prompts to install.
 
@@ -128,13 +128,11 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 </p>
 
 
-
-
-
-
-
-
 <p align="center">
 <img src="https://i.imgur.com/4v16Ssz.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
+
+- First, open IIS as Admin and Register PHP from within IIS.
+- Next, reload IIS (Open IIS, Stop and Start the server)
+
 
