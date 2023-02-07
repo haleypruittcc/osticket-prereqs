@@ -106,6 +106,9 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
   - Example: "Password1"
 - Then you going to contiue follow the prompts to install.
 
+<h3>Step 4:  Reload IIS and Enable  Extensions in IIS
+</h3>
+
 
 <p align="center">
 <img src="https://i.imgur.com/JB3Cbrc.png" height="80%" width="80%" alt="Azure Free Account"/> 
@@ -161,7 +164,8 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
   - Disable inheritance -> Remove All
   - New Permissions -> Everyone -> All
 
-
+<h3>Step 5:  
+</h3>
 
 
 
