@@ -216,7 +216,7 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 <img src="https://i.imgur.com/V1q28Ok.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
- 🎉Congratulation! You finally done install and download osTicket. Next, !🎉
+ 🎉Congratulation! You finally done install and download osTicket. Next on tutorial , we going  to osTicket: Post-Installation Configuration by clicking [here](https://github.com/haleypruittcc/ResourcegroupandHelloworld)   !🎉
 
 
 
