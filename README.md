@@ -138,6 +138,18 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
   - Download osTicket from the Installation Files Folder
   - Extract and copy “upload” folder to c:\inetpub\wwwroot
   - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+- Reload IIS (Open IIS, Stop and Start the server)
+- Go to sites -> Default -> osTicket and on the right, click “Browse *:80”
+- Go back to IIS, sites -> Default -> osTicket
+- Double-click PHP Manager and Click “Enable or disable an extension”
+  - Enable: php_imap.dll
+  - Enable: php_intl.dll
+  - Enable: php_opcache.dll
+- Refresh the osTicket site in your browse, observe the changes
+- Rename: ost-config.php by going to This PC -> Windows(:C) -> intepub -> wwwroot -> osTicket -> inclube then scroll down to find "ost-sampleconfig.php"
+  - From: ost-sampleconfig.php -> To: ost-config.php.
+- 
+
 
 
 
