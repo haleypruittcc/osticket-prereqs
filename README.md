@@ -160,12 +160,54 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 <img src="https://i.imgur.com/4Nli569.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
+<p align="center">
+<img src="https://i.imgur.com/44uK1XZ.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/UUhdhCQ.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
 - Assign Permissions: ost-config.php by going to 
   - Disable inheritance -> Remove All
   - New Permissions -> Everyone -> All
 
-<h3>Step 5:  
+<h3>Step 5: Setting up osTicket 
 </h3>
 
+<p align="center">
+<img src="https://i.imgur.com/mQUzMND.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/fcvCsMS.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/qZAJUYj.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/qtmShlm.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/4MrRDAi.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/tY4dQbq.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+- Fisrt, Continue setting up osTicket in the browser by click "Continue"
+- Name 
 
 
+
+
+
+
+
+<p align="center">
+<img src="https://i.imgur.com/zzpKquU.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
