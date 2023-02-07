@@ -148,7 +148,12 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 - Refresh the osTicket site in your browse, observe the changes
 - Rename: ost-config.php by going to This PC -> Windows(:C) -> intepub -> wwwroot -> osTicket -> inclube then scroll down to find "ost-sampleconfig.php"
   - From: ost-sampleconfig.php -> To: ost-config.php.
-- 
+
+
+- Assign Permissions: ost-config.php by going to 
+  - Disable inheritance -> Remove All
+  - New Permissions -> Everyone -> All
+
 
 
 
