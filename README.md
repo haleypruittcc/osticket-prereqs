@@ -34,7 +34,7 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 <h3>Step 2: Install and activate Windows' IIS (Internet Information Services) </h3>
 
 <p align="center">
-<img src="https://i.imgur.com/iEIhTMo.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/XLRo0UG.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 
@@ -51,7 +51,7 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 </h3>
 
 <p align="center">
-<img src="https://i.imgur.com/mdLy4c3.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/YoRSSqc.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 
@@ -60,7 +60,7 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 - You will then follow a prompt to install "PHP Manager for IIS "
 
 <p align="center">
-<img src="https://i.imgur.com/oRyUssH.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/065U0Xv.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/IhQpzec.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yRX32Bz.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 - Next, Download " Rewrite Module" > Select "Download"
@@ -68,7 +68,7 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 
 
 <p align="center">
-<img src="https://i.imgur.com/Dl3xNJM.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/WXzKTIi.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 - Next, Download "PHP 7.3.8"
@@ -77,26 +77,26 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 
 
 <p align="center">
-<img src="https://i.imgur.com/DvyiEeW.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/SVF47SM.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 - Next, Download "VC_redist.x86.exe" > Select "Download"
 - You will then follow a prompt to install "VC_redist.x86.exe"
 
 <p align="center">
-<img src="https://i.imgur.com/y5qv9Mn.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/mbIuhYN.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/BU8JC2I.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/IWUste2.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/d5KeP4Z.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/x2s72jr.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/n5QsaKk.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/X90Gr2J.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 
@@ -111,32 +111,23 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 
 
 <p align="center">
-<img src="https://i.imgur.com/JB3Cbrc.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/CWKN559.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/0mY23yA.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/QUKytjX.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/Uacc8HW.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/5x5ORlb.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/MTMZ44V.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/LRqqkHk.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/4B5mjnt.png" height="80%" width="80%" alt="Azure Free Account"/> 
-</p>
-
-<p align="center">
-<img src="https://i.imgur.com/NeIlauO.png" height="80%" width="80%" alt="Azure Free Account"/> 
-</p>
-
-
-<p align="center">
-<img src="https://i.imgur.com/4v16Ssz.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/MT96Kp6.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 - Install osTicket v1.15.8
@@ -156,17 +147,23 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 - Rename: ost-config.php by going to This PC -> Windows(:C) -> intepub -> wwwroot -> osTicket -> inclube then scroll down to find "ost-sampleconfig.php"
   - From: ost-sampleconfig.php -> To: ost-config.php.
 
-<p align="center">
-<img src="https://i.imgur.com/4Nli569.png" height="80%" width="80%" alt="Azure Free Account"/> 
-</p>
+
+
 
 <p align="center">
-<img src="https://i.imgur.com/44uK1XZ.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/oSkX8bg.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
+
 <p align="center">
-<img src="https://i.imgur.com/UUhdhCQ.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/WsC7GuR.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
+
+
+<p align="center">
+<img src="https://i.imgur.com/ykdXb0g.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
 
 - Assign Permissions: ost-config.php by going to 
   - Disable inheritance -> Remove All
@@ -176,27 +173,23 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 </h3>
 
 <p align="center">
-<img src="https://i.imgur.com/mQUzMND.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/BtQPcIR.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/fcvCsMS.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/vd5PeQy.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/qZAJUYj.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/1Aif49h.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/qtmShlm.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/4gAQfBy.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/4MrRDAi.png" height="80%" width="80%" alt="Azure Free Account"/> 
-</p>
-
-<p align="center">
-<img src="https://i.imgur.com/tY4dQbq.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/0dYhSNc.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 - Fisrt, Continue setting up osTicket in the browser by click "Continue"
@@ -213,7 +206,7 @@ The developer of osTicket, Enhancesoft, is a software firm that specializes in p
 - Finally, click "Install Now" 
 
 <p align="center">
-<img src="https://i.imgur.com/V1q28Ok.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/9eMJIk8.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
  🎉Congratulation! You finally done install and download osTicket.!🎉 Next on tutorial , we going  to osTicket: Post-Installation Configuration by clicking [here](https://github.com/haleypruittcc/osTicket-Post-Installation-Configuration) 
